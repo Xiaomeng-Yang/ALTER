@@ -1,0 +1,13 @@
+accelerate
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+datasets
+diffusers>=0.35.1
+huggingface-hub
+image-reward==1.5
+nump
+open_clip_torch==2.30.0
+peft
+torch>=2.1.0
+torchvision
+transformers>=4.25.1
+wandb
